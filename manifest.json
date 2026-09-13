@@ -1,0 +1,9 @@
+{
+  "name": "La Casita de Lucio",
+  "short_name": "CasitaLucio",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff8e1",
+  "theme_color": "#ff6f00",
+  "icons": [{"src":"https://cdn-icons-png.flaticon.com/512/869/869869.png","sizes":"512x512","type":"image/png"}]
+}
